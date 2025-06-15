@@ -1,4 +1,3 @@
-// WebAppInterface.kt
 package com.example.smarthybridwebclient.utils
 
 import android.content.Context
@@ -43,8 +42,6 @@ class WebAppInterface(private val context: Context) {
     }
 
 }
-
-// FileUtils.kt — Для получения имени файла из Uri
 
 
 

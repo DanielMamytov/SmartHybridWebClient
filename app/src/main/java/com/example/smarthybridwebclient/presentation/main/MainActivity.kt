@@ -14,10 +14,10 @@ import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.example.smarthybridwebclient.databinding.ActivityMainBinding
 import com.example.smarthybridwebclient.utils.FileUtils
 import com.example.smarthybridwebclient.utils.WebAppInterface
 import androidx.core.net.toUri
+import com.example.smarthybridwebclient.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
